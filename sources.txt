@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=LKAXg2drQJQ
+https://angularfirebase.com/lessons/build-group-chat-with-firestore/
+https://github.com/AngularFirebase/144-firestore-group-chat/tree/master/src/app
